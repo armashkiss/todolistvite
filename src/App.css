@@ -5,7 +5,9 @@
   text-align: center;
 }
 body {
-  background: url(bg.svg);
+  background-image: url(bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .input {
   height: 70px;
